@@ -8,6 +8,8 @@ import java.io.FileNotFoundException;
 class ScanClassOfAll implements Runnable
 {
 
+	// git Ã·Ωª≤‚ ‘°£°£
+	
 	private String enterYear;
 
 	private int collegeId;
