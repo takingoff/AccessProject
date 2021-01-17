@@ -9,6 +9,7 @@ class ScanClassOfAll implements Runnable
 {
 
 	// git Ã·Ωª≤‚ ‘°£°£
+	// svn git ≤‚ ‘°£°£
 	
 	private String enterYear;
 
